@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Random App</string>
+    <string name="app_name">Random App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="previous">Previous</string>
+
+    <string name="text_counter">0</string>
+    <string name="text_random">R</string>
+    <string name="random_heading">Here is a random between 0 and %d.</string>
+
+    <string name="button_toast_text">Toast</string>
+    <string name="button_count_text">Count</string>
+    <string name="button_random_text">Random</string>
+
+    <string name="message_toast_click">It´s a toast!!!</string>
+</resources>
